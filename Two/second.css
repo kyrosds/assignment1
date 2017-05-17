@@ -1,19 +1,33 @@
 .one {
-
+  height: 875px;
+  width: 940px;
+  background-color: yellow;
 }
 
 .two {
-
+  height: 125px;
+  width: 100%;
+  background-color: red;
 }
 
 .three {
-
+  padding-bottom: 5px;
+  height: 630px;
+  width: 310px;
+  background-color: blue;
+  float: left;
 }
 
 .four {
-
+  padding-bottom: 5px;
+  height: 630px;
+  width: 320px;
+  background-color: purple;
+  display: inline-flex;
 }
 
 .five {
-
+  height: 125px;
+  width: 100%;
+  background-color: green;
 }

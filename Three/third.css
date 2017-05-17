@@ -1,27 +1,43 @@
 .one {
-
+  height: 1100px;
+  width: 925px;
+  border: 1px solid black;
 }
 
 .two {
-
+  height: 125px;
+  width: 100%;
+  background-color: purple;
 }
 
 .three {
-
+  height: 875px;
+  width: 70%;
+  background-color: red;
+  padding: 50px 0 50px 0;
+  margin: 0 auto;
 }
 
 .four {
-
+  height: 225px;
+  width: 425px;
+  margin: 35px auto;
+  padding: 10px;
+  background-color: blue;
 }
 
-.five {
-
+.yellow {
+  height: 125px;
+  width: 125px;
+  margin: 10px;
+  background-color: yellow;
+  float: left;
 }
 
-.yellow_p {
-
-}
-
-.green_p {
-  
+.green {
+  height: 175px;
+  width: 250px;
+  margin: 10px;
+  background-color: green;
+  float: left;
 }
